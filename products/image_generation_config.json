@@ -1,0 +1,119 @@
+[
+    {
+        "imageName": "pdchair.png",
+        "personImage": {
+            "center": {
+                "x": 521,
+                "y": 307
+            },
+            "size": {
+                "max_width": 130,
+                "max_height": 194
+            }
+        }
+    },
+    {
+        "imageName": "pdlamp.png",
+        "personImage": {
+            "center": {
+                "x": 483,
+                "y": 272
+            },
+            "size": {
+                "max_width": 160,
+                "max_height": 160
+            }
+        }
+    },
+    {
+        "imageName": "pdvase.png",
+        "personImage": {
+            "center": {
+                "x": 502,
+                "y": 547
+            },
+            "size": {
+                "max_width": 193,
+                "max_height": 193
+            }
+        }
+    },
+    {
+        "imageName": "pfan.png",
+        "personImage": {
+            "center": {
+                "x": 480,
+                "y": 399
+            },
+            "size": {
+                "max_width": 160,
+                "max_height": 160
+            }
+        }
+    },
+    {
+        "imageName": "pmilkpowder.png",
+        "personImage": {
+            "center": {
+                "x": 491,
+                "y": 509
+            },
+            "size": {
+                "max_width": 242,
+                "max_height": 242
+            }
+        }
+    },
+    {
+        "imageName": "pperfume.png",
+        "personImage": {
+            "center": {
+                "x": 500,
+                "y": 602
+            },
+            "size": {
+                "max_width": 229,
+                "max_height": 229
+            }
+        }
+    },
+    {
+        "imageName": "psmartphone.png",
+        "personImage": {
+            "center": {
+                "x": 505,
+                "y": 536
+            },
+            "size": {
+                "max_width": 218,
+                "max_height": 218
+            }
+        }
+    },
+    {
+        "imageName": "psmartwatch.png",
+        "personImage": {
+            "center": {
+                "x": 507,
+                "y": 785
+            },
+            "size": {
+                "max_width": 103,
+                "max_height": 103
+            }
+        }
+    },
+    {
+        "imageName": "pwallclock.png",
+        "personImage": {
+            "center": {
+                "x": 501,
+                "y": 430
+            },
+            "size": {
+                "max_width": 96,
+                "max_height": 96
+            }
+        }
+    }
+]
